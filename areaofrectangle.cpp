@@ -1,3 +1,4 @@
+/*print Area and Perimeter of triangle */
 #include <iostream>
 using namespace std;
 int main ()

@@ -1,3 +1,4 @@
+/*print The sum of triangle */
 #include <iostream>
 using namespace std;
 int main ()
